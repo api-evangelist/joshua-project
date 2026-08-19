@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/joshua-pro
 name: Joshua Project
 description: "People groups of the world with the fewest followers of Christ"
 url: https://api.joshuaproject.net/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
