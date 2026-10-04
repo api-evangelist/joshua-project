@@ -39,7 +39,6 @@ apis:
   - name: Joshua Project
     description: "People groups of the world with the fewest followers of Christ"
     humanURL: https://api.joshuaproject.net/
-    baseURL: https://api.joshuaproject.net/
     tags:
       - Open Data
     properties:
